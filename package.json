@@ -1,0 +1,31 @@
+{
+  "name": "tablero_luis_robles",
+  "version": "1.0.0",
+  "description": "examen parcial",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisRobles11/ExamenParcialDA1_Luis_Robles.git"
+  },
+  "keywords": [
+    "examen",
+    "luis",
+    "parcial",
+    "robles"
+  ],
+  "author": "Luis Fernando Robles Blanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisRobles11/ExamenParcialDA1_Luis_Robles/issues"
+  },
+  "homepage": "https://github.com/LuisRobles11/ExamenParcialDA1_Luis_Robles#readme"
+}
